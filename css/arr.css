@@ -4,7 +4,7 @@ body{
 	background-image: url("imgs\logo2.jpg");
 }
 
-article{
+.index{
 	background-image: url(http://www.virttua.com/images/servicios/desarrollo-de-paginas-web.jpg);
 background-repeat: no-repeat;
 }
@@ -71,5 +71,9 @@ margin-left:50%;
 
 
 .pie{
-	margin-bottom:100px;
+	margin-bottom:100PX;
 }
+
+
+
+.Pacifico {font-family: 'Pacifico', cursive;}
