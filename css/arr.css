@@ -77,3 +77,30 @@ margin-left:50%;
 
 
 .Pacifico {font-family: 'Pacifico', cursive;}
+
+.logo{
+	
+padding:0px;
+}
+
+.no-lista li {
+	list-style-type: none;
+}
+
+.blanco{
+	color:	#C0C0C0;
+}
+
+header{
+	background: 	#000000;
+}
+
+.ms{
+	margin-top:-19px;
+	margin-bottom:0%;
+
+}
+
+.moveriz{
+	margin-left:-30px;
+}
