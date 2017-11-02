@@ -1,1 +1,162 @@
-bals.htnl
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Diseñoweb.com</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="css/arr.css">
+</head>
+<body>
+	<header class="blanco ">
+		<div>		
+	<ul class="no-lista li">
+		<li class="col-md-2  margin"  > <img src="imgs\fondou.jpg" width="200" height="79" class="mrgnsu logo ms moveriz"></li>
+		<li class="col-md-10"><h1 class="blanco mrgnsumenu">Diseñoweb.com</h1></li>
+	</ul>
+		</div>
+	</header>
+
+	<nav class="navbar navbar-inverse col-md-12 ms">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">Diseñoweb.com</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="index.html">INICIO</a></li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">lECTURAS
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">          
+          <li><a href="HTML.html">HTML</a></li>
+          <li><a href="CSS.html">CSS</a></li>
+          <li><a href="SBLTX.html">SUBLIME TEX</a></li>
+          <li><a href="GIT.html">GIT</a></li>
+          <li><a href="bals.htnl">BALSAMIC</a></li>
+        </ul>
+      </li>     
+      <li><a href="Cursos.html">CURSOS</a></li>
+      <li><a href="Herramientas.html">HERRAMIENTAS</a></li>
+      <li><a href="Contactos.html">CONTACTOS</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+
+</nav>
+
+<article>
+	<section class="col-md-6">
+		<h2>Balsamiq</h2>
+		<p>
+			Es una herramienta útil para maquetar la estructura de nuestra página web.
+			Cuando estás creando una página web, ya seas desarrollador o simplemente estés creando la estructura que deseas para un posterior desarrollo, hay algunas herramientas que pueden facilitarte el proceso, optimizando el mismo.
+
+			Es muy importante a la hora de crear tu página web que en primer lugar tengas claro qué quieres incluir en la misma, además de la estructura que tendrá la misma. Definir los menús, los apartados de que dispondrá, etc. aunque el diseño lo decidamos más tarde.
+
+
+		</p>
+
+		<h3>Característica</h3>
+		<p>
+			<p>
+			Una vez pensadas nuestras necesidades y plasmadas en papel hay algunas herramientas que nos pueden ayudar a diseñar la estructura de forma más profesional, tanto si somos nosotros mismos quienes programaremos posteriormente la página como si el trabajo lo realizarán otros. Cuanto mejor definamos la estructura más fácil será la programación de la misma y más acorde con lo que realmente necesitamos.
+
+Una herramienta de muy fácil uso que nos puede ayudar a diseñar nuestra maqueta de estructura es Balsamiq. Gracias a la misma podemos establecer cuál va a ser la configuración de nuestra web.
+
+Se trata simplemente de diferentes tipos de elementos, que aparecen en la parte superior y que pueden formar parte de un site, los cuales iremos arrastrando a a la parte inferior para, de esta forma, ir configurando nuestra propia página, con el aspecto y los elementos deseados.
+in ser mi rol el de programador, lo cierto es que lo poco que he trasteado la herramienta me ha parecido muy cómoda. Además se puede adaptar la herramienta a otros servicios (Google Drive, Jira,...), agregar nuevos elementos y mucho más.
+Balsamiq tiene un precio de 79 dólares para la versión nativa y una suscripción de 12 dólares al mes si queremos acceso a la interfaz web. Un precio rápidamente amortizable. Sobre todo, como os digo, si necesitamos una herramienta para trabajar de forma colaborativa.
+		</p>
+		
+		
+
+	</section>
+
+	<section class="col-md-6">
+		
+		<div class="col-md-12">	
+
+		<h1>Balsamiq</h1>	
+
+		
+		<p class="col-md-6">
+					Balsamiq podríamos decir que es una aplicación/servicio pues no sólo cuenta con una aplicación nativa para OS X (también Windows y Linux) sino también con una versión web, de modo que podemos trabajar desde cualquier lugar. Y su finalidad no es otra que ayudar al desarrollo de aplicaciones con una herramienta que facilita la creación de esquemas.
+					Cuando iniciamos la aplicación o accedemos a su interfaz web veremos como disponemos de una hoja en blanco donde podremos ir añadiendo los diferentes elementos que formarán parte de la interfaz. Así, ya sea una webapp, aplicación para iPhone, etc... podremos ir añadiendo elementos como barra de dirección, mensajes de alerta, etc.
+
+		</p>
+
+		
+
+		<img src="imgs\blsa.jpg" class="6" width="300">
+</div>	
+
+		
+		<div class="col-md-12">
+			<h4 class="col-md-12">Hora de pensar</h4>
+			<a href="evblsmc.html" class="btn btn-info col-md-12" role="button">EVALUACION</a>
+		</div>
+
+
+
+
+
+
+
+
+
+	
+	</section>
+	
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="col-md-12 ">
+	<h2 class="centrar" >Diseñoweb.com</h2>
+	<ul class="no-lista movrderch ">
+		<li class="col-md-4">
+			<h3>HTML</h3>			
+			<a href="Cursos.html" target="-blnk" ><img src="imgs\html.png" height="400" width="300"  alt="HTML" title="CURSO HTML" class=""> </a>
+		</li>
+
+		<li class="col-md-4 ">
+			<h3>CSS</h3>
+			<a href="Cursos.html" target="-blnk" ><img src="imgs\css.png" height="400" width="300"  alt="CSS" title="CURSO CSS"> </a>
+		</li>
+
+		<li class="col-md-4">
+			<h3>GIT</h3>
+			<a href="Cursos.html" target="-blnk" ><img src="imgs\git.jpg" height="400"       width="300" alt="GIT" title="CURSO GIT" ></a>
+		</li>
+	</ul>
+	<ul class="no-lista col-md-3  ">
+		<li class="col-md-1">
+			<a href="#" target="-blnk" ><img src="imgs\fac.png" height="30"       width="30" alt="facebook" title="facebook"  class="mrgnsumenu alado"></a>
+		</li>
+		<li class="col-md-1">
+			<a href="#" target="-blnk" ><img src="imgs\descarga.jpg" height="30"       width="30" alt="instagram" title="instagram" class="alado mrgnsumenu" ></a>
+		</li>
+		<li class="col-md-1">
+			<a href="#" target="-blnk" ><img src="imgs\twit.jpg" height="30"       width="30" alt="twitter" title="twitter" class="alado mrgnsumenu" ></a>
+		</li>
+	</ul>
+	
+	<p class="blanco col-md-12 movrderch pie ">Email: web.com@gmail.com    Telefono:2154635</p>
+</footer>
+</body>
